@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "63f6f7080186f2e124405631",
+    "isActive": true,
+    "contactPerson": "Karen Sosa",
+    "clientName": "PROVIDCO",
+    "contactNumber": "+1 (913) 548-3001",
+    "mobileNumber": "+1 (952) 538-2615",
+    "address": "463 Tabor Court, Tyhee, Pennsylvania, 4839",
+    "description": "Duis amet voluptate sit incididunt ullamco Lorem fugiat sint consequat mollit non id. Sunt officia excepteur ex duis fugiat est proident mollit pariatur minim. Mollit dolor excepteur magna ut incididunt et irure anim non voluptate adipisicing reprehenderit excepteur magna. Exercitation quis esse fugiat sunt cillum cillum.\r\n"
+  },
+  {
+    "_id": "63f6f708da31ff8b728af963",
+    "isActive": false,
+    "contactPerson": "Cassie Molina",
+    "clientName": "ESSENSIA",
+    "contactNumber": "+1 (840) 424-3854",
+    "mobileNumber": "+1 (967) 440-3156",
+    "address": "517 Canal Avenue, Fidelis, Nebraska, 2568",
+    "description": "Esse adipisicing proident in sint. Commodo velit adipisicing sint commodo deserunt ea et consequat veniam veniam ad. Adipisicing consequat eu ad sunt Lorem ex fugiat voluptate commodo. Sunt culpa proident sit in id.\r\n"
+  },
+  {
+    "_id": "63f6f7088a3c759c854fbb31",
+    "isActive": true,
+    "contactPerson": "Toni White",
+    "clientName": "FIREWAX",
+    "contactNumber": "+1 (811) 423-3861",
+    "mobileNumber": "+1 (820) 597-3799",
+    "address": "817 Miami Court, Strong, Connecticut, 6388",
+    "description": "Id ullamco velit sit et sunt cillum minim excepteur officia Lorem irure enim consectetur non. Consequat quis magna veniam nulla aliqua officia dolore ad esse. Exercitation nisi veniam adipisicing aliqua Lorem ad minim. Est amet exercitation incididunt sunt nostrud culpa labore laborum minim magna sunt ex sit. Et voluptate deserunt voluptate culpa veniam non Lorem.\r\n"
+  },
+  {
+    "_id": "63f6f7081d7819cba801ab2d",
+    "isActive": false,
+    "contactPerson": "Farrell Webb",
+    "clientName": "QUARX",
+    "contactNumber": "+1 (973) 434-2646",
+    "mobileNumber": "+1 (942) 465-2673",
+    "address": "165 Whitwell Place, Croom, Maine, 1564",
+    "description": "Commodo id nostrud ut dolor nulla nulla sunt voluptate duis velit reprehenderit anim. Occaecat sunt culpa culpa sunt eiusmod velit cillum ad enim est. Aute dolore cupidatat magna fugiat aliquip. Consequat pariatur sit non voluptate mollit esse dolore minim irure. Elit adipisicing cupidatat amet tempor adipisicing dolor ullamco irure. Irure reprehenderit magna laborum ipsum velit excepteur id veniam incididunt cupidatat sint nulla. Cillum enim magna minim id adipisicing officia.\r\n"
+  },
+  {
+    "_id": "63f6f7087586dd1bb758fe32",
+    "isActive": false,
+    "contactPerson": "Vickie Conway",
+    "clientName": "EXOSPEED",
+    "contactNumber": "+1 (971) 538-3217",
+    "mobileNumber": "+1 (856) 498-2152",
+    "address": "112 Brown Street, Conway, Kentucky, 2833",
+    "description": "Sit reprehenderit dolore aute excepteur anim quis ipsum. Cupidatat proident ad nisi et officia irure reprehenderit ad ut in duis elit et. Irure est ullamco Lorem occaecat ea voluptate magna ut exercitation ex id occaecat ipsum.\r\n"
+  }
+]
